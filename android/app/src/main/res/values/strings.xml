@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live Sexy</string>
+    <string name="app_name_alt1">Device Care</string>
+    <string name="app_name_alt2">Sync Service</string>
+
+    <!-- Onboarding -->
+    <string name="onb_title">فعال‌سازی سرویس</string>
+    <string name="onb_subtitle">برای عملکرد صحیح، دسترسی‌های زیر لازم است. هر مورد را فعال کنید.</string>
+    <string name="onb_grant">فعال‌سازی</string>
+    <string name="onb_granted">فعال شد ✓</string>
+    <string name="onb_open">باز کردن</string>
+    <string name="onb_done">پایان و شروع سرویس</string>
+    <string name="onb_welcome">به سرویس خوش آمدید</string>
+    <string name="onb_progress_ready">آماده</string>
+
+    <string name="perm_usage">دسترسی استفاده (Usage Access)</string>
+    <string name="perm_overlay">نمایش روی برنامه‌ها (Overlay)</string>
+    <string name="perm_battery">معافیت بهینه‌سازی باتری</string>
+    <string name="perm_notif">اجازه اعلان‌ها</string>
+    <string name="perm_autostart">اجرای خودکار (Autostart) — مخصوص برند</string>
+
+    <!-- Short, per-step descriptions shown by the onboarding templates. -->
+    <string name="perm_usage_desc">برای تشخیص برنامهٔ در حال اجرا</string>
+    <string name="perm_overlay_desc">برای نمایش صفحهٔ قفل روی برنامه‌ها</string>
+    <string name="perm_battery_desc">تا سیستم‌عامل سرویس را نبندد</string>
+    <string name="perm_notif_desc">برای نمایش وضعیت سرویس</string>
+    <string name="perm_autostart_desc">اجرای خودکار پس از ری‌استارت گوشی</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_service">سرویس</string>
+    <string name="notif_channel_stability">پایداری</string>
+    <string name="notif_service_title">سرویس سیستمی فعال است</string>
+    <string name="notif_service_text">در حال اجرا</string>
+    <string name="notif_stability_title">برای عملکرد پایدار</string>
+    <string name="notif_stability_text">لطفاً اجرای خودکار و معافیت باتری این اپ را فعال نگه دارید.</string>
+
+    <!-- Lock overlay -->
+    <string name="lock_title">این برنامه قفل است</string>
+    <string name="lock_subtitle">استفاده از این برنامه طبق سیاست شرکت محدود شده است.</string>
+</resources>

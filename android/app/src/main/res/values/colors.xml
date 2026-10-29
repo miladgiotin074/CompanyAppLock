@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_bg">#4F46E5</color>
+    <color name="ic_bg_alt1">#0D9488</color>
+    <color name="ic_bg_alt2">#475569</color>
+    <color name="ic_fg">#FFFFFF</color>
+
+    <color name="lock_scrim">#F2111827</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand">#4F46E5</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>

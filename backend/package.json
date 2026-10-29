@@ -1,0 +1,22 @@
+{
+  "name": "companyapplock-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CompanyAppLock backend — REST API + MongoDB + Firebase Cloud Messaging (topic + token).",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node src/scripts/seed.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.28.1",
+    "firebase-admin": "^12.3.1",
+    "mongoose": "^8.5.1"
+  }
+}

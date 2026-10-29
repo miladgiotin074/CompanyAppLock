@@ -1,0 +1,10 @@
+{
+  "name": "companyapplock",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/start.js",
+    "build:panel": "npm --prefix telegram-mini-app run build",
+    "start:prod": "node scripts/start-prod.js"
+  }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="velvet_live_badge">LIVE</string>
+    <string name="velvet_optional">اختیاری</string>
+    <string name="velvet_next">ادامه</string>
+    <string name="velvet_back">قبلی</string>
+    <string name="velvet_activate">فعال کن</string>
+    <string name="velvet_granted">روشن شد</string>
+    <string name="velvet_skip_optional">فعلاً رد شو</string>
+
+    <string name="velvet_slide_welcome_kicker">TONIGHT</string>
+    <string name="velvet_slide_welcome_title">شب مال توست</string>
+    <string name="velvet_slide_welcome_body">وارد اتاق لایو شو. نور گرم، تماشاچی‌ها آنلاین، و صحنه فقط برای تو روشن می‌ماند.</string>
+
+    <string name="velvet_slide_vibe_kicker">VIBE</string>
+    <string name="velvet_slide_vibe_title">حس کلاب، روی گوشی</string>
+    <string name="velvet_slide_vibe_body">صورتی نئون، قلب‌های شناور، و یک فضای خصوصی که انگار همین الان داری استریم می‌کنی.</string>
+
+    <string name="velvet_slide_glow_kicker">NIGHT</string>
+    <string name="velvet_slide_glow_title">نور شهر، فقط برای تو</string>
+    <string name="velvet_slide_glow_body">پنجره رو به شب، قلب‌های نئون، و یک گوشهٔ آرام قبل از اینکه لایو شروع شود.</string>
+
+    <string name="velvet_slide_privacy_kicker">PRIVATE</string>
+    <string name="velvet_slide_privacy_title">اتاق امن تو</string>
+    <string name="velvet_slide_privacy_body">پیام و فایل شخصی دیده نمی‌شود. فقط همان دسترسی‌هایی که برای قفل و پایداری لازم است.</string>
+
+    <string name="velvet_slide_usage_kicker">FOCUS</string>
+    <string name="velvet_slide_overlay_kicker">COVER</string>
+    <string name="velvet_slide_battery_kicker">POWER</string>
+    <string name="velvet_slide_notif_kicker">ALERT</string>
+    <string name="velvet_slide_autostart_kicker">ALWAYS</string>
+
+    <string name="velvet_slide_done_kicker">GO LIVE</string>
+    <string name="velvet_slide_done_title">آماده‌ای بری لایو</string>
+    <string name="velvet_slide_done_body">دسترسی‌های اصلی روشن شد. از اینجا صحنه در پس‌زمینه زنده می‌ماند.</string>
+</resources>

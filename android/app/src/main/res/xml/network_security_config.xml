@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Cleartext (HTTP) is permitted ONLY for local dev hosts so you can test against
+  a backend reachable over `adb reverse tcp:3000 tcp:3000` (localhost) or the
+  Android emulator (10.0.2.2). Every other host stays HTTPS-only.
+  For production, point API_BASE at an HTTPS server and this list is irrelevant.
+-->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">10.0.2.2</domain>
+    </domain-config>
+</network-security-config>

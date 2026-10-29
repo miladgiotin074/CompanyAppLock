@@ -1,0 +1,22 @@
+node_modules/
+**/node_modules/
+.env
+**/.env
+*.log
+.DS_Store
+
+backend/firebase-service-account.json
+android/app/google-services.json
+android/local.properties
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+android/captures/
+telegram-mini-app/dist/
+panel/.next/
+panel/node_modules/
+
+# Local bootstrap private key, if generated with --rotate
+android/tools/bootstrap-private.pem
+android/tools/*-private.pem
